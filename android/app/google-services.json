@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702424117433",
+    "project_id": "pharmacy-app-f97ed",
+    "storage_bucket": "pharmacy-app-f97ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702424117433:android:7c503719771d303522eb68",
+        "android_client_info": {
+          "package_name": "com.example.hoormedicalstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCWaSJzWnoTuKUuVdw76caPEdV35a5DHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
